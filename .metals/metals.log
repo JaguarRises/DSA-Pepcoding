@@ -1,0 +1,275 @@
+2026.05.09 10:04:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.09 10:04:56 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:04:56 WARN  no build tool detected in workspace '/home/prerit/Projects-Code/My-Learning/DSA-Pepcoding'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.09 10:04:57 WARN  Build server is not auto-connectable.
+2026.05.09 10:04:57 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:04:59 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:04:59 INFO  time: code lens generation in 2.06s
+2026.05.09 10:05:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:05:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:05:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:05:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.05.09 10:05:22 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:05:22 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:05:24 INFO  time: code lens generation in 1.25s
+2026.05.09 10:05:25 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:06:01 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:14:47 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:14:47 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:42 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:42 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.05.09 10:15:43 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.05.09 10:15:45 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+May 09, 2026 10:15:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.05.09 10:15:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:47 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:15:47 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.05.09 10:15:47 INFO  Created report: Optional[file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java]
+2026.05.09 10:15:47 INFO  QDox parse error in file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java (full report at: "/home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/.metals/.reports/metals-full/2026-05-09/r_qdox-error_10-15-47-655.md")
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+May 09, 2026 10:15:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.05.09 10:15:46 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+2026.05.09 10:15:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:49 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:49 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:49 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:49 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:50 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:50 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:15:50 INFO  QDox parse error in file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java (full report at: "/home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/.metals/.reports/metals-full/2026-05-09/r_qdox-error_10-15-47-655.md")
+2026.05.09 10:15:50 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:15:50 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:50 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+2026.05.09 10:15:50 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:51 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:52 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:53 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+2026.05.09 10:15:53 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:55 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:55 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:15:57 INFO  QDox parse error in file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java (full report at: "/home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/.metals/.reports/metals-full/2026-05-09/r_qdox-error_10-15-47-655.md")
+2026.05.09 10:15:57 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+May 09, 2026 10:15:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:57 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+May 09, 2026 10:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+May 09, 2026 10:15:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:58 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:59 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:15:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+2026.05.09 10:15:59 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:59 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:15:59 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:00 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:00 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:01 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:16:01 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:03 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:03 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+2026.05.09 10:16:05 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:05 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:05 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:16:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 84
+2026.05.09 10:16:05 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:07 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:07 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:07 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:08 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:16:08 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:16:09 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:08 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:09 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:11 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:11 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:24 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:24 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:24 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:25 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:25 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:25 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:26 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:26 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:28 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:16:28 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:17:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.09 10:17:19 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:19 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:17:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+2026.05.09 10:17:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:17:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.09 10:17:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:36 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:17:55 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:20 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:21 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:21 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:21 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+2026.05.09 10:18:22 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:18:23 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:23 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:23 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:23 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:23 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:24 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:18:25 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:28 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:32 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:18:32 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:32 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:18:33 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:33 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:34 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:34 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:36 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:35 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+May 09, 2026 10:18:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2026.05.09 10:18:37 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+2026.05.09 10:18:38 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:38 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:38 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:39 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:41 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:41 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:41 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 176
+2026.05.09 10:18:41 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:41 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+May 09, 2026 10:18:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 181
+2026.05.09 10:18:41 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:41 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:42 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:42 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:42 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:43 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:44 WARN  Running javac-semanticdb failed for file:///home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Output:
+
+2026.05.09 10:18:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:44 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:18:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 194
+2026.05.09 10:18:45 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:45 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:45 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:45 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:47 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:48 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:18:49 WARN  no build target for: /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java
+2026.05.09 10:18:51 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+May 09, 2026 10:19:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.09 10:20:00 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:20:00 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:20:07 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:20:07 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:20:12 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
+2026.05.09 10:20:22 INFO  no build target found for /home/prerit/Projects-Code/My-Learning/DSA-Pepcoding/Basics/HelloWorld.java. Using fallback presentation compiler.
