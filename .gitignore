@@ -1,1 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Build/output directories
+out/
+target/
+build/
+
+# Metals
 .metals/
+metals.lock.db
+metals.log
+metals.mv.db
+
+# Bloop
+.bloop/
+
+# OS files
+.DS_Store
+Thumbs.db
