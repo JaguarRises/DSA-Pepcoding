@@ -5,18 +5,15 @@ public class CountDigitsInANumber {
     public static int countDigits(int num){
 
         num = Math.abs(num);
-
         if(num == 0){
             return 1;
         }
 
         int count = 0;
-
         while(num > 0){
             count++;
-            num /= 10;
+            num = num/10;
         }
-
         return count;
     }
 

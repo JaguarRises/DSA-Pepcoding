@@ -1,24 +1,42 @@
+# =========================
 # IntelliJ IDEA
+# =========================
 .idea/
 *.iml
 
-# Compiled Java files
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Java
+# =========================
 *.class
+*.jar
+*.war
+*.ear
 
-# Build/output directories
+# Build directories
 out/
-target/
 build/
+target/
 
-# Metals
+# =========================
+# Scala / Metals / Bloop
+# =========================
 .metals/
 metals.lock.db
 metals.log
 metals.mv.db
 
-# Bloop
 .bloop/
 
+# Coursier cache (optional)
+.coursier/
+
+# =========================
 # OS files
+# =========================
 .DS_Store
 Thumbs.db
