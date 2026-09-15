@@ -30,19 +30,25 @@ public class DigitsOfANumber {
         return x;
     }
 
-    public static void printDigits(int num){
+    public static void printDigits(int num) {
+
+        num = Math.abs(num);
+
+        if (num == 0) {
+            System.out.println(0);
+            return;
+        }
 
         int numberOfDigits = countDigits(num);
         int div = multiplier(numberOfDigits);
 
-        while(num > 0){
+        while (num > 0) {
             int quotient = num / div;
             System.out.println(quotient);
 
             num = num % div;
             div = div / 10;
         }
-
     }
 
     public static void main(String[] args) {

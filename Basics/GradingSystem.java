@@ -14,7 +14,7 @@ public class GradingSystem {
         if(marks > 90){
             System.out.println("Excellent");
         }
-        else if(marks > 90){
+        else if(marks > 80){
             System.out.println("Good");
         }
         else if(marks > 70){

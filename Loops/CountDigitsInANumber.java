@@ -20,7 +20,7 @@ public class CountDigitsInANumber {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter any positive number: ");
+        System.out.println("Enter any integer: ");
         int n = scanner.nextInt();
 
         int numberOfDigits = countDigits(n);

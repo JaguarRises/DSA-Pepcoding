@@ -5,7 +5,7 @@ public class TakingInput {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-
+        // When you have to take string input and integer in the same program.
         int num = Integer.parseInt(scanner.nextLine());
         String name = scanner.nextLine();
 

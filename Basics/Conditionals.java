@@ -18,5 +18,6 @@ public class Conditionals {
 
         System.out.println("Hardwork is better than smart work");
 
+        scanner.close();
     }
 }
