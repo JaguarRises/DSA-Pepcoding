@@ -15,7 +15,9 @@ public class BenjaminBulbs {
         System.out.print("Enter the number of bulbs: ");
         int n = scanner.nextInt();
 
-        System.out.println("The bulb numbers after " + n + " voltage fluctuations that will remain on are: ");
+        System.out.println("The bulb numbers after " + n + " voltage fluctuations that will remain ON are: ");
         benjaminBulbs(n);
+
+        scanner.close();
     }
 }
