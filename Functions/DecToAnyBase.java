@@ -11,7 +11,7 @@ public class DecToAnyBase {
     }
     */
 
-    public static int DecToAnyBase(int n, int b){
+    public static int decimalToAnyBase(int n, int b){
         int rv = 0;
         int power = 1;
         while(n > 0){
@@ -31,7 +31,7 @@ public class DecToAnyBase {
         System.out.print("Enter the base(<=10): ");
         int b = scanner.nextInt();
 
-        int ans = DecToAnyBase(n, b);
+        int ans = decimalToAnyBase(n, b);
 
         System.out.println(n + " in base " + b + " is: " + ans);
 
